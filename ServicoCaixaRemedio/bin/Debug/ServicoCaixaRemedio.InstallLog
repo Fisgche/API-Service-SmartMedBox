@@ -1,0 +1,34 @@
+﻿Instalando o assembly 'C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.InstallLog
+   assemblypath = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.InstallLog
+   assemblypath = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe
+Desinstalando o assembly 'C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.InstallLog
+   assemblypath = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.InstallLog
+   assemblypath = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.InstallLog
+   assemblypath = C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe

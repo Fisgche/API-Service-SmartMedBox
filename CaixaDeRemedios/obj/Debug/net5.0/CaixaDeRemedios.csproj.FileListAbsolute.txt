@@ -1,0 +1,7 @@
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\CaixaDeRemedios\obj\Debug\net5.0\CaixaDeRemedios.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\CaixaDeRemedios\obj\Debug\net5.0\CaixaDeRemedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\CaixaDeRemedios\obj\Debug\net5.0\CaixaDeRemedios.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\CaixaDeRemedios\obj\Debug\net5.0\CaixaDeRemedios.AssemblyInfo.cs
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\CaixaDeRemedios\obj\Debug\net5.0\CaixaDeRemedios.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\CaixaDeRemedios\obj\Debug\net5.0\CaixaDeRemedios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\CaixaDeRemedios\obj\Debug\net5.0\CaixaDeRemedios.MvcApplicationPartsAssemblyInfo.cache

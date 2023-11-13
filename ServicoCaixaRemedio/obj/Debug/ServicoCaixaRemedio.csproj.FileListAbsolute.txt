@@ -1,0 +1,12 @@
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe.config
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.exe
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\ServicoCaixaRemedio.pdb
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\obj\Debug\ServicoCaixaRemedio.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\obj\Debug\ServicoCaixaRemedio.ProjectInstaller.resources
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\obj\Debug\ServicoCaixaRemedio.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\obj\Debug\ServicoCaixaRemedio.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\obj\Debug\ServicoCaixaRemedio.csproj.CopyComplete
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\obj\Debug\ServicoCaixaRemedio.exe
+C:\Users\gusta\Desktop\PISH\Projeto\CaixaDeRemedios\ServicoCaixaRemedio\obj\Debug\ServicoCaixaRemedio.pdb
